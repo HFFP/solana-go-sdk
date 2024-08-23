@@ -3,8 +3,8 @@ package client
 import (
 	"context"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/HFFP/solana-go-sdk/common"
+	"github.com/HFFP/solana-go-sdk/rpc"
 )
 
 type ClusterNode struct {

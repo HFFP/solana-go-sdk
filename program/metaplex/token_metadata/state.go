@@ -4,8 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/near/borsh-go"
+	"github.com/HFFP/solana-go-sdk/common"
 )
 
 const EDITION_MARKER_BIT_SIZE uint64 = 248

@@ -5,10 +5,10 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/pkg/pointer"
-	"github.com/blocto/solana-go-sdk/rpc"
-	"github.com/blocto/solana-go-sdk/types"
+	"github.com/HFFP/solana-go-sdk/common"
+	"github.com/HFFP/solana-go-sdk/pkg/pointer"
+	"github.com/HFFP/solana-go-sdk/rpc"
+	"github.com/HFFP/solana-go-sdk/types"
 	"github.com/mr-tron/base58"
 )
 

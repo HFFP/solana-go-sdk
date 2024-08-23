@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/internal/client_test"
-	"github.com/blocto/solana-go-sdk/program/token"
-	"github.com/blocto/solana-go-sdk/rpc"
+	"github.com/HFFP/solana-go-sdk/common"
+	"github.com/HFFP/solana-go-sdk/internal/client_test"
+	"github.com/HFFP/solana-go-sdk/program/token"
+	"github.com/HFFP/solana-go-sdk/rpc"
 )
 
 func TestClient_GetTokenAccountsByOwnerByMint(t *testing.T) {

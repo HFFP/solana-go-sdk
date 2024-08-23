@@ -1,8 +1,8 @@
 package sysvar
 
 import (
-	"github.com/blocto/solana-go-sdk/common"
-	"github.com/blocto/solana-go-sdk/pkg/bytes_decoder"
+	"github.com/HFFP/solana-go-sdk/common"
+	"github.com/HFFP/solana-go-sdk/pkg/bytes_decoder"
 )
 
 type SlotHash struct {
